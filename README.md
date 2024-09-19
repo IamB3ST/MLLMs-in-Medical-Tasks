@@ -7,7 +7,7 @@ This repo is created to record the papers I have readed, also I will put some us
 | Paper | Keywords | Published |
 |:-------|:-------|:-------|
 | BERT [[arxiv](https://arxiv.org/abs/1810.04805)] [[bilibili](https://www.bilibili.com/video/BV1PL411M7eQ/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | masked language model \ encoder only \ bidirectional arch | NAACL 2019 |
-| GPT [[GPT-1](https://openai.com/index/language-unsupervised/)] [[GPT-2](https://openai.com/index/better-language-models/)] [[GPT-3](https://openai.com/index/language-models-are-few-shot-learners/)] [[bilibili](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | large language model \ decoder only \ few-shot, zero-shot | NeurIPS 2020 |
+| GPT [[gpt-1](https://openai.com/index/language-unsupervised/)] [[gpt-2](https://openai.com/index/better-language-models/)] [[gpt-3](https://openai.com/index/language-models-are-few-shot-learners/)] [[bilibili](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | large language model \ decoder only \ few-shot, zero-shot | NeurIPS 2020 |
 
 ### AI4Science
 | Paper | Keywords | Published |
