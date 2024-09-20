@@ -8,7 +8,7 @@ This repo is created to record the papers I have readed, also I will put some us
 |:-------|:-------|:-------|
 | BERT [[arxiv](https://arxiv.org/abs/1810.04805)] [[repo](https://github.com/google-research/bert)] [[bilibili](https://www.bilibili.com/video/BV1PL411M7eQ/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | masked language model \ encoder only \ bidirectional arch | NAACL 2019 |
 | GPT [[gpt-1](https://openai.com/index/language-unsupervised/)] [[gpt-2](https://openai.com/index/better-language-models/)] [[gpt-3](https://openai.com/index/language-models-are-few-shot-learners/)] [[bilibili](https://www.bilibili.com/video/BV1AF411b7xQ/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | large language model \ decoder only \ few-shot, zero-shot | NeurIPS 2020 |
-| CoT [[arxiv](https://arxiv.org/abs/2201.11903)] [[bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | inference prompt \ think step by step | NeurIPS 2022 |
+| CoT [[arxiv](https://arxiv.org/abs/2201.11903)] [[bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | inference prompt \ think step by step \ chain of thought | NeurIPS 2022 |
 
 ### AI4Science
 | Paper | Keywords | Published |
