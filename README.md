@@ -13,4 +13,4 @@ This repo is created to record the papers I have readed, also I will put some us
 ### AI4Science
 | Paper | Keywords | Published |
 |:-------|:-------|:-------|
-| AlphaFold2 [[nature](https://www.nature.com/articles/s41586-021-03819-2)] [[repo](https://github.com/google-deepmind/alphafold)] [[bilibili](https://www.bilibili.com/video/BV1oR4y1K7Xr/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | protein structure predict \ transformer-based | Nature |
+| AlphaFold2 [[nature](https://www.nature.com/articles/s41586-021-03819-2)] [[repo](https://github.com/google-deepmind/alphafold)] [[bilibili](https://www.bilibili.com/video/BV1oR4y1K7Xr/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | protein structure predict \ transformer-based \ multi sequence alignment | Nature |
