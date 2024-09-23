@@ -18,9 +18,16 @@ This repo is created to record the papers I have readed, also I will put some us
 | CoT [[arxiv](https://arxiv.org/abs/2201.11903)] [[blog](https://www.promptingguide.ai/techniques/cot)] [[bilibili](https://www.bilibili.com/video/BV1t8411e7Ug/?spm_id_from=333.788&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | inference prompt \  chain of thought \ large language model | NeurIPS 2022 |
 | Zero-shot CoT [[arxiv](https://arxiv.org/abs/2205.11916)] [[blog](https://www.promptingguide.ai/techniques/cot)] | zero shot \ inference prompt \ chain of thought \ large language model | NeurIPS 2022 |
 | Self-Consistency [[arxiv](https://arxiv.org/abs/2203.11171)] [[blog](https://www.promptingguide.ai/techniques/consistency)] | inference prompt \ chain of thought \ large language model | ICLR 2023 |
+| ToT [[arxiv](https://arxiv.org/abs/2305.10601)] [[blog](https://www.promptingguide.ai/techniques/tot)] | inference prompt \ tree of thought \ large language model | NeurIPS 2023 |
+| Least-to-Most [[arxiv](https://arxiv.org/abs/2205.10625)] [[blog](https://learnprompting.org/docs/intermediate/least_to_most)] | inference prompt \ chain of thought \ large language model | ICLR 2023 |
 
 ### AI4Science
 #### Protein structure predict
 | Paper | Keywords | Published |
 |:-------|:-------|:-------|
 | AlphaFold2 [[nature](https://www.nature.com/articles/s41586-021-03819-2)] [[repo](https://github.com/google-deepmind/alphafold)] [[bilibili](https://www.bilibili.com/video/BV1oR4y1K7Xr/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | protein structure predict \ transformer-based \ multi sequence alignment | Nature |
+
+#### Protein design
+| Paper | Keywords | Published |
+|:-------|:-------|:-------|
+| ProteinMPNN |  |  |
