@@ -1,6 +1,6 @@
 # Paper Reading
 
-This repo is created to record the papers I have readed, also I will put some useful blogs from other platforms to help you to understand these papers. And the papers I read mainly focus on LLM/LVM/AI4Science/Graph Model.
+This repo is created to record the papers I have readed, also I will put some useful blogs from other platforms to help you to understand these papers. And the papers I read mainly focus on LLM/LVM/Graph Model.
 
 * Last update: 9/22/2024
 
@@ -21,13 +21,3 @@ This repo is created to record the papers I have readed, also I will put some us
 | ToT [[arxiv](https://arxiv.org/abs/2305.10601)] [[repo](https://github.com/princeton-nlp/tree-of-thought-llm)] [[blog](https://www.promptingguide.ai/techniques/tot)] | NeurIPS 2023 |
 | Least-to-Most [[arxiv](https://arxiv.org/abs/2205.10625)] [[blog](https://learnprompting.org/docs/intermediate/least_to_most)] | ICLR 2023 |
 
-### AI4Science
-#### Protein structure predict
-| Paper | Published |
-|:-------|:-------|
-| AlphaFold2 [[nature](https://www.nature.com/articles/s41586-021-03819-2)] [[repo](https://github.com/google-deepmind/alphafold)] [[bilibili](https://www.bilibili.com/video/BV1oR4y1K7Xr/?spm_id_from=333.999.0.0&vd_source=370ed84aad127ddcea55a9ecddb33d4e)] | Nature |
-
-#### Protein sequence recovery
-| Paper | Published |
-|:-------|:-------|
-| ProteinMPNN [[biorxiv](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1)] [[repo](https://github.com/dauparas/ProteinMPNN)] | Science |
