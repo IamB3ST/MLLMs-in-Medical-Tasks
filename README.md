@@ -21,8 +21,3 @@ This repo is created to record the papers I have readed, also I will put some us
 | ToT [[arxiv](https://arxiv.org/abs/2305.10601)] [[repo](https://github.com/princeton-nlp/tree-of-thought-llm)] [[blog](https://www.promptingguide.ai/techniques/tot)] | NeurIPS 2023 |
 | Least-to-Most [[arxiv](https://arxiv.org/abs/2205.10625)] [[blog](https://learnprompting.org/docs/intermediate/least_to_most)] | ICLR 2023 |
 
-### LLM4Rec
-#### Feature Engineering
-| Paper | Published |
-|:-------|:-------|
-| Mint [[arxiv](https://arxiv.org/abs/2306.02250)] | RecSys 2023 |
