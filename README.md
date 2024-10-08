@@ -8,6 +8,7 @@ This repo is created to record the papers I have readed, also I will put some us
 ### Safety
 #### Hallucination
 | Paper | Key Words | Published | 
-|:-------|:-------|
+|:-------|:-------|:-------|
+|  |  |  |
 
 
